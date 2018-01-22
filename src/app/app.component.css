@@ -1,0 +1,44 @@
+.header
+{
+    display: flex;
+    justify-content: center;
+}
+.fixed-row
+{
+    width: 100%;
+    
+}
+
+.stylish-input-group .input-group-addon{
+    background: white !important; 
+}
+.stylish-input-group .form-control{
+	border-right:0; 
+	box-shadow:0 0 0; 
+	border-color:#ccc;
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}
+
+
+/*    --------------------------------------------------
+	:: General
+	-------------------------------------------------- */
+body {
+	font-family: 'Open Sans', sans-serif;
+	color: #353535;
+}
+.content h1 {
+	text-align: center;
+}
+.content .content-footer p {
+	color: #6d6d6d;
+    font-size: 12px;
+    text-align: center;
+}
+.content .content-footer p a {
+	color: inherit;
+	font-weight: bold;
+}
